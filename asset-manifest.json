@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ra-hw-13_saga_2-main-details/static/css/main.9b0ed85f.css",
+    "main.js": "/ra-hw-13_saga_2-main-details/static/js/main.1b6fbcb3.js",
+    "static/js/787.eeb355ed.chunk.js": "/ra-hw-13_saga_2-main-details/static/js/787.eeb355ed.chunk.js",
+    "static/media/Montserrat-Regular.woff2": "/ra-hw-13_saga_2-main-details/static/media/Montserrat-Regular.4d9eac545dbd8e6e6e7d.woff2",
+    "static/media/Montserrat-Regular.woff": "/ra-hw-13_saga_2-main-details/static/media/Montserrat-Regular.2f9bb87d767918726ee3.woff",
+    "index.html": "/ra-hw-13_saga_2-main-details/index.html",
+    "static/media/Spiner-circle-red.svg": "/ra-hw-13_saga_2-main-details/static/media/Spiner-circle-red.b9dc2cac68f62bc32bc1be6ff808b465.svg",
+    "main.9b0ed85f.css.map": "/ra-hw-13_saga_2-main-details/static/css/main.9b0ed85f.css.map",
+    "main.1b6fbcb3.js.map": "/ra-hw-13_saga_2-main-details/static/js/main.1b6fbcb3.js.map",
+    "787.eeb355ed.chunk.js.map": "/ra-hw-13_saga_2-main-details/static/js/787.eeb355ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b0ed85f.css",
+    "static/js/main.1b6fbcb3.js"
+  ]
+}
